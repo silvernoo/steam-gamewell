@@ -4,3 +4,10 @@
 4. 调整脚本参数
 5. $ pip install Pillow
 6. $ python create_grid_collage.py
+
+
+create_grid_collage.py create_mixed_grid_collage.py 对应两种风格的图片
+
+![my_grid_collage](my_grid_collage.jpg)
+
+![my_mixed_grid_collage](my_mixed_grid_collage.jpg)
